@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Kasaudhan Manas
+# Hi there! 👋 I'm Manas Kasaudhan
 
 **Full-Stack Developer | Problem Solver | Open Source Contributor**
 
