@@ -227,7 +227,7 @@ A real-time chat application built with JavaScript that enables seamless communi
 - **LinkedIn:** [www.linkedin.com/in/manas-k-974907345](https://www.linkedin.com/in/manas-k-974907345)
 - **Email:** [Manaskasaudhan1808@gmail.com](mailto:Manaskasaudhan1808@gmail.com)
 - **GitHub:** [github.com/KasaudhanManas](https://github.com/KasaudhanManas)
-- **Portfolio:** Coming Soon! 🚀
+- **Portfolio:** https://kasaudhanmanas.github.io/portfolio/
 
 ---
 
